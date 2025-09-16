@@ -19,5 +19,6 @@
     </head>
     <body class="font-sans antialiased">
         @inertia
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindplus/elements@1" type="module"></script>
     </body>
 </html>
